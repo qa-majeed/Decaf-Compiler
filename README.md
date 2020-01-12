@@ -1,2 +1,2 @@
 # Decaf-Compiler
-This is an assignment work for our compiler construction Assignments. It is not implemented for complete decaf grammar.
+This is an assignment work for my Compiler Construction course. It is not implemented for complete decaf grammar.
