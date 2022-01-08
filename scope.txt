@@ -1,0 +1,54 @@
+int str ;
+bool flag ;
+//correct input
+/* Function ABC*/ 
+bool ABC ( int a , string b , string str )
+{
+int c ;
+double badar ;
+	a = 6 * 3 * ( 2 * 3 + 1 ) ;
+	badar = 22.5 ;
+	while ( ( c < 1 ) )
+	{
+
+	string ss ;
+		// ss = p ;
+		while ( false )
+		{
+		   c = c + a ;
+	       	   if ( a <= 10 )
+		   {
+	             // hello world
+	                return true ;
+	           }
+		   else 
+		        return a + a * c ;
+		}
+	}
+	//ss = "4";
+	{
+	 int xyz ;
+	 // xyz = xyz + 'b' * 3.7 ;
+	  // zz = 0;
+	}
+	// zz = "HFGSD";
+	while ( true )
+	{
+	   //b = ABC(a,c);
+	   //b = b*c;
+	   flag = false ;
+	}
+//	d = d + ( b + ( ( c + 2 ) * a ) ) ;
+	//if(a = b)
+	    str = "Plag" ;
+a = 10 ;
+//flag = "hellowrodl";
+//ss = 'B';
+	return flag ;
+}
+
+int add ( int b , int str )
+{
+	b = b + str ;
+	return b ;
+}
